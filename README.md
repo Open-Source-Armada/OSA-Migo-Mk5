@@ -65,7 +65,7 @@ Central cockpit grants direct vision for easier shooting, cockpit snipes are not
 
 Thrusters have been angled 5 degrees inward to minimise trail visability, makes the ship harder to track during fights, and makes the ship hard to spot when following other vessels.
 
-The missile varient takes advantage of the cheap and disposible nature of the Mk5 to test field the new 5 missile launcher, right now they are too janky to be utilised, but still very fun.
+The missile varient takes advantage of the cheap and disposible nature of the Mk5 to test field the new 5 missile launcher, right now they are too janky to be utilised in dogfights, but still very fun.
 
 //Tactics//
 
