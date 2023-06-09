@@ -17,6 +17,8 @@ Included is a experimental missile variant, armed with 20 missiles tuned to be a
 
 Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
 
+LaunchMissile+ and LaunchTube+ are your missile triggers, bind both to the same key, this system uses no yolo and is a simple way to cycle and launch missile tubes.
+
 Rapidfire button switches between staggered fire (gun 2 will stagger behind gun 1 creating a machine gun effect) and alpha strike (both guns fire together).
 
 Sensitivity settings are adjustable from a yolo chip located in the cockpit, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
