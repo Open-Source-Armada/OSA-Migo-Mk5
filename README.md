@@ -31,7 +31,7 @@ Basic script for current Fuel/Prop times.
 
 Uses basic FCU, no reverse, Roll_L and Roll_R are your keybinds for roll.
 
-Entry is through a small gap from the side of the ship.
+Entry is through a small gap from the side of the ship, Fuel rod can be accessed from the rear top next to the sensitivity settings.
 
 //Design//
 
