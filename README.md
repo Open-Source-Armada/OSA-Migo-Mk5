@@ -1,73 +1,52 @@
 # OSA-Migo-Mk5
-Latest Migo redesigned to be a true micro fighter, under 400 tons and made of accessible Eos mats.
+Latest Migo redesigned to be a true micro fighter, under 300 tons and made of low tech parts and accessible Eos mats.
 
-This new model of the Migo has returned to its roots, using 2 copies of the largest plate, then form fitting the ships internals into these plates for a compact, high HP micro fighter.
-
-It is also overgunned with 4 autos to give it a chance of delivering a fatal hit, and to overpower other ultra light fighters.
-
-Micro fighters generally can not circle fight with the majority of ships, so the Mk5 utilises a more jousty, evasive strategy to make use of the ships high speed and small size.
-
-Perfect ship for infantry bombardment, swarm tactics and a intro ship for pilots starting out.
-
-Included is a experimental missile variant, armed with 20 missiles tuned to be as safe to fire as i can, use at your own risk ;)
+Made for starter pilots and infantry looking to weigh in on fleet fights, this swarm fighter can be made by almost anyone with small tech investment in large numbers, can be used as a scout ship, small ship escort or as a assult ship for infantry to land on sieged stations or cap ships.
 
 //Specs//
 
-4 mounted weapons with a staggered fire trigger system.
+2 mounted weapons, 2 autogun with a basic trigger and saftey system.
 
-Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
+Shoot_1+ is your trigger, bind this to your weapon hotkey (space by default).
 
-LaunchMissile+ and LaunchTube+ are your missile triggers, bind both to the same key, this system uses no yolo and is a simple way to cycle and launch missile tubes.
+Sensitivity settings are adjustable from a yolo chip located on the top rear of the ship, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
 
-Rapidfire button switches between staggered fire (gun 2 will stagger behind gun 1 creating a machine gun effect) and alpha strike (both guns fire together).
+CenterSensePlus is your standard sensitivity, Adjust to your preferred flying sensitivity.
 
-Sensitivity settings are adjustable from a yolo chip located in the cockpit, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
+AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus to change Aim sensitivity.
 
-CenterSensePlus and CenterSenseMinus is your standard sensitivity, Adjust both to your preferred flying sensitivity.
-
-AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus and MinSenseMinus to change Aim sensitivity.
-
-AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus and MaxSenseMinus to change Boost sensitivity.
+AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus to change Boost sensitivity.
 
 Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Aim keybind lowers the limits for sniping, Boost keybind removes these limits allowing for faster pitch/yaw.
 
-Armoured using known methods of meta plating, including big plate health, voxel armour, segmented and layered plating.
+Armoured lightly using known methods of meta plating, including big plate health, voxel armour, segmented and layered plating and plasma/rail sacrifice plates.
+Materials and components are low tech, i leave it to the user to increase cost to your tastes.
 
-Materials and components are on the low end, Incredibly cheap, still recommended to craft the guns to fully lower the print cost.
-
-Comes in 4 auto/4 auto 4 missile launchers.
-
-357877.469 kg in weight, 145ms at 60fps.
+289543.656 kg in weight, 148ms at 60fps.
 
 1 small prop tanks for 1 million prop, 1 hour 40 mins estimated flight time.
 
-1 T1 fuel chamber, 1 T1 generator, 3 T1 enhancers 2 hour 40 mins estimated fight time.
+1 T1 fuel chamber, 1 T1 generator, 2 T1 enhancers 2 hour 40 mins estimated fight time, 8 hours 30 mins flight time.
 
 Basic script for current Fuel/Prop times.
 
 Uses basic FCU, no reverse, Roll_L and Roll_R are your keybinds for roll.
 
-Entry is through a small gap from the front of the ship.
+Entry is through a small gap from the side of the ship.
 
 //Design//
 
-The original Migo Mk1 was my first attempt at making a PvP ship in starbase, utilising the large clam shell plates to house almost the entire ship and pilot.
+Redesigned to address issues I had with the Mk5, the latest Migo cuts some of the more experemental design choices in favour of a more reliable weapon configuation and a "Mouse Fighter" shape and weight.
 
-This gave it fantastic base HP for a small size, and allowed me to take on larger ships and gain practice fighting for a very low cost.
+The OG Collective Mouse was always an inspirations for the Migo, being one of the first popular micro fighters, but i never copied the single clam shell wedge shape for a variety of reasons, but this resulted in inadiquete vision for the pilot in most Migo designs, thus the Mk6 takes the hull of the previous varient, drops one of its clam shell plates and 2 autoguns and has been remoddeled into a wedge to provide the pilot better vision.
 
-After building a Mk4 that was too big and expensive to meet my criteria of a micro fighter, i retuned to this same design that started it all.
+Small ammounts of voxel armour have been used to supplement the large clam plate on its front face, providing some protection to the pilot and components, allowing it to survive glancing salvos in fights, and provide decent protection againt infantry grade weapons.
 
-The Mk5 is 150 tons lighter than the Mk1 and Mk3, and uses no materials or alloys that can not be acquired in the Eos belt.
+Armour is made of Char with an Aegisisum big plate clam shell.
 
-Almost the entire ship is contained within two copies of the largest plate in game, providing high protection in all directions, supplementary plates cover the remaining areas.
+6 tri thrusters propel the ship, all angled inward slightly to minimize the size of the thruster trail, helping slip under other players attention.
 
-Meta armour techniques have been used only around the guns and pilot to minimize weight, cost and size.
-
-Central cockpit grants direct vision for easier shooting, cockpit snipes are not as much of a factor due to the incredibly small size of the ship.
-
-Thrusters have been angled 5 degrees inward to minimise trail visibility, makes the ship harder to track during fights, and makes the ship hard to spot when following other vessels.
-
-The missile variant takes advantage of the cheap and disposable nature of the Mk5 to test field the new 5 missile launcher, right now they are too janky to be utilised in dogfights, but still very fun.
+Low tech T1 components and Eos mats make this fighter readily available to any and all, most of the time, made to be one of the quickest ways to arm every player before or during a siege.
 
 //Tactics//
 
@@ -77,6 +56,6 @@ While not as valuable now in the games current state, a higher pop and siege gam
 
 Usable for assaulting infantry as a attack ship, light but armed scout ship, point defence ship for quick response to piracy and as a pirate ship itself.
 
-Due to the potential emergent nature of PvP in starbase, there will always be a need for ultra light cheap base fighter to utilise in all situations, holes in your fleet composition can always be shored up with numbers and easy to access micro fighters.
+Due to the potential emergent nature of PvP in starbase, there will always be a need for ultra light cheap base fighter to utilise in all situations, holes in your fleet composition can always be shored up with numbers and easy of access micro fighters.
 
 Starting combat pilots or part time PvPers can arm themself's very quickly even from Eos, and can be flown with zero fear of failing, this is by far the best way to gain confidence needed to fly bigger and more expensive fighters, there is only up from this point, any armour stripped from a enemy, sneaky thruster damage to assists a friendly, endo kills on grounded infantry and lucky cockpit snipes are victory's for little to any risk or expense.
