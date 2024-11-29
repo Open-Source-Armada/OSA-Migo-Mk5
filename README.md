@@ -1,4 +1,4 @@
-# OSA-Migo-Mk5
+# OSA-Migo-Mk6
 Latest Migo redesigned to be a true micro fighter, under 300 tons and made of low tech parts and accessible Eos mats.
 
 Made for starter pilots and infantry looking to weigh in on fleet fights, this swarm fighter can be made by almost anyone with small tech investment in large numbers, can be used as a scout ship, small ship escort or as a assult ship for infantry to land on sieged stations or cap ships.
